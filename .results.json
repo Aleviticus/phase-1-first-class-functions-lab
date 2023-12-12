@@ -5,15 +5,15 @@
     "passes": 13,
     "pending": 0,
     "failures": 0,
-    "start": "2023-10-31T19:58:04.410Z",
-    "end": "2023-10-31T19:58:04.543Z",
-    "duration": 133
+    "start": "2023-12-12T15:11:12.102Z",
+    "end": "2023-12-12T15:11:12.238Z",
+    "duration": 136
   },
   "tests": [
     {
       "title": "should return a new array containing the first two drivers from the passed-in array",
       "fullTitle": "index.js returnFirstTwoDrivers() should return a new array containing the first two drivers from the passed-in array",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -108,7 +108,7 @@
     {
       "title": "should return a new array containing the first two drivers from the passed-in array",
       "fullTitle": "index.js returnFirstTwoDrivers() should return a new array containing the first two drivers from the passed-in array",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
